@@ -1,0 +1,20 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <ImageView
+        android:src="@drawable/newlogo"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:text="Welcome to LoginApp"
+        android:textSize="24sp"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:fontFamily="sans-serif-medium" android:layout_width="5dp"/>
+</LinearLayout>
